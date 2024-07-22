@@ -12,9 +12,11 @@ spoons, and chopping boards. The goal is to make these everyday tools accessible
 
 Key design requirements include:
 
-Creating utensils that assist users in gripping and using the tools with ease.
-Utilizing simple, smooth materials that reduce stress and strain during use.
-Ensuring the products are practical, slightly restrained in style, and highly functional.
-The target audience for these designs includes individuals with arthritis, tendonitis, hand injuries, 
-or numbness, providing them with the ability to perform daily kitchen tasks independently and comfortably. 
+- Creating utensils that assist users in gripping and using the tools with ease.
+
+- Utilizing simple, smooth materials that reduce stress and strain during use.
+- Ensuring the products are practical, slightly restrained in style, and highly functional.
+- The target audience for these designs includes individuals with arthritis, tendonitis, hand injuries, 
+or numbness, providing them with the ability to perform daily kitchen tasks independently and comfortably.
+
 This project seeks to improve the quality of life for people with hand disabilities by making common kitchen activities more accessible and manageable.
